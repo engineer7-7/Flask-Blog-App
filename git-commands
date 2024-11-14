@@ -1,0 +1,12 @@
+git init --> initialize the git to the working folder
+
+git status --> displays the current git status, which files have been commited and which not
+
+git add --> add files to git repository
+
+git add . --> adds all the files to git repository
+
+git commit -m --> commit specific files and after -m, we add some message
+
+git log --> displays the commit history
+

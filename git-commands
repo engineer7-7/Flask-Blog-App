@@ -10,3 +10,19 @@ git commit -m --> commit specific files and after -m, we add some message
 
 git log --> displays the commit history
 
+git diff <filename> --> displays the current changes that have been done in the given filename.
+
+git checkout <filename> --> returns the file to the latest commit which the file was (like undo).
+
+-----------------------------------------------------------------------------------------------------------------------
+github
+
+git remote add <name(origin is, in the most cases)> <url> --> sends our files to this specific github repository.
+
+git push -u <name we gave into remote command (origin)> main
+-----------------------------------------------------------------------------------------------------------------------
+
+
+echo. > .gitignore --> creates new .gitignore file (executed on cmd!)
+
+git rm --cached -r. <directory-or-file> --> removes all the files from git repository

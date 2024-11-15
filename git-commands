@@ -26,3 +26,53 @@ git push -u <name we gave into remote command (origin)> main
 echo. > .gitignore --> creates new .gitignore file (executed on cmd!)
 
 git rm --cached -r. <directory-or-file> --> removes all the files from git repository
+
+git clone <url> --> takes some code-project-folder (usually used for github)
+
+git branch <name-of-new-branch> --> (is used to work on separate branches)
+
+git branch --> displays us all the existing branches (in * is the branch which we current work in)
+
+git checkout <name-of-branch> --> it switches to the given branch (we work in this new given branch)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
